@@ -1,0 +1,10 @@
+
+.nav-list a,
+.nav-list a:link,
+.nav-list a:visited,
+.nav-list a:hover,
+.nav-list a:active,
+.nav-list a:focus {
+    color: inherit; /* Faz o link puxar a cor #000000 da div */
+    text-decoration: none;
+}
